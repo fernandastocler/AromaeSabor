@@ -1,0 +1,227 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #fff5e6, #ffe0b2);
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+nav.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #c10000;
+  color: white;
+  padding: 10px 20px;
+}
+
+nav.navbar ul {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+nav.navbar li {
+  margin-left: 15px;
+}
+
+nav.navbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav.navbar a:hover {
+  text-decoration: underline;
+}
+
+.menu-container, .login-container {
+  max-width: 600px;
+  margin: 30px auto;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h1, h2, h3 {
+  color: #c10000;
+  margin-bottom: 20px;
+}
+
+input, button {
+  width: 90%;
+  padding: 12px;
+  margin: 10px auto;
+  display: block;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+button {
+  background-color: #c10000;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background-color: #a30000;
+}
+
+.produto {
+  background-color: #fff3e0;
+  margin: 20px 0;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+.produto-img {
+  max-width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+a {
+  color: #c10000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.agendamento input {
+  width: 90%;
+}
+
+.confirmacao {
+  background-color: #e8f5e9;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 20px;
+  border: 1px solid #81c784;
+}
+
+menu---
+nav.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #c10000;
+  color: white;
+  padding: 10px 20px;
+}
+
+nav.navbar ul {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+nav.navbar li {
+  margin-left: 15px;
+}
+
+nav.navbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav.navbar a:hover {
+  text-decoration: underline;
+}
+
+
+login--
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #fff5e6, #ffe0b2);
+  margin: 0;
+  padding: 0;
+}
+
+.login-container {
+  max-width: 400px;
+  margin: 60px auto;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h2 {
+  color: #c10000;
+  margin-bottom: 20px;
+}
+
+input, button {
+  width: 90%;
+  padding: 12px;
+  margin: 10px auto;
+  display: block;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+button {
+  background-color: #c10000;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background-color: #a30000;
+}
+
+a {
+  color: #c10000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Navbar já postada antes, mantenha no CSS */
+nav.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #c10000;
+  color: white;
+  padding: 10px 20px;
+}
+
+nav.navbar ul {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+nav.navbar li {
+  margin-left: 15px;
+}
+
+nav.navbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav.navbar a:hover {
+  text-decoration: underline;
+}

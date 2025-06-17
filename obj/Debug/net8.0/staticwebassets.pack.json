@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\menu.html",
+      "PackagePath": "staticwebassets\\menu.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AromaeSabor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AromaeSabor.props",
+      "PackagePath": "build\\AromaeSabor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AromaeSabor.props",
+      "PackagePath": "buildMultiTargeting\\AromaeSabor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AromaeSabor.props",
+      "PackagePath": "buildTransitive\\AromaeSabor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

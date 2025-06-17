@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Menu - Aroma e Sabor</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <h1>Aroma e Sabor</h1>
+    <ul>
+      <li><a href="index.html">Login</a></li>
+      <li><a href="menu.html">Menu</a></li>
+      <li><a href="cadastro.html">Cadastro</a></li>
+    </ul>
+  </nav>
+
+  <div class="menu-container">
+    <h2>Bem-vindo(a) ao nosso cardápio!</h2>
+
+    <div class="produto">
+      <img src="imagens/coxinha.jpg" alt="Coxinha" class="produto-img">
+      <p><strong>Coxinha</strong> - R$ 6,00</p>
+      <button onclick="comprar('Coxinha')">Comprar</button>
+    </div>
+
+    <div class="produto">
+      <img src="imagens/enroladinho.jpg" alt="Enroladinho" class="produto-img">
+      <p><strong>Enroladinho</strong> - R$ 6,00</p>
+      <button onclick="comprar('Enroladinho')">Comprar</button>
+    </div>
+
+    <div class="produto">
+      <img src="imagens/coca.jpg" alt="Lata Coca-Cola" class="produto-img">
+      <p><strong>Lata Coca-Cola</strong> - R$ 4,00</p>
+      <button onclick="comprar('Coca-Cola')">Comprar</button>
+    </div>
+
+    <div class="agendamento">
+      <h3>Agende sua retirada</h3>
+      <input type="time" id="horaRetirada" required>
+      <button onclick="gerarSenha()">Confirmar e Gerar Senha</button>
+    </div>
+
+    <div id="senhaDisplay"></div>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
+
+
