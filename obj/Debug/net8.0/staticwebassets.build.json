@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qk+k/Pos/EPA3ugCwwiXXzxpHqcy/mqpffyv5odCsaQ=",
+  "Hash": "DFgg5OoohaM8wVQUxY2rot+GUnP3smqokOtix+Sey94=",
   "Source": "AromaeSabor",
   "BasePath": "_content/AromaeSabor",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\cadrastro.html",
+      "SourceId": "AromaeSabor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\",
+      "BasePath": "_content/AromaeSabor",
+      "RelativePath": "cadrastro.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cadrastro.html"
+    },
     {
       "Identity": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\css\\style.css",
       "SourceId": "AromaeSabor",

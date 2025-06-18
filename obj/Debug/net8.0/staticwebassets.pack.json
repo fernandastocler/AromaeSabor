@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\cadrastro.html",
+      "PackagePath": "staticwebassets\\cadrastro.html"
+    },
+    {
       "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },

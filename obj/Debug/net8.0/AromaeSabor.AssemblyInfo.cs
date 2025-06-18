@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AromaeSabor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+671fa9aa5615368bfeb20272dc03da58f562137f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04a2281a2197d0689db9ac8a9265573a47ad00b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AromaeSabor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AromaeSabor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,39 +7,42 @@
 </head>
 <body>
 
-  <!-- Navbar -->
   <nav class="navbar">
     <h1>Aroma e Sabor</h1>
     <ul>
       <li><a href="login.html">Login</a></li>
       <li><a href="menu.html">Menu</a></li>
-      <li><a href="cadastro">Cadastro</a></li>
+      <li><a href="cadastro.html">Cadastro</a></li>
     </ul>
   </nav>
 
   <div class="menu-container">
-    <h2>Bem-vindo(a)!</h2>
+    <h2>Nosso Cardápio</h2>
 
     <div class="produto">
-      <p>Coxinha - R$ 6,00</p>
+      <img src="img/coxinha-removebg-preview.png" alt="Coxinha" class="produto-img">
+      <p><strong>Coxinha</strong> - R$ 6,00</p>
       <button onclick="comprar('Coxinha')">Comprar</button>
     </div>
 
     <div class="produto">
-      <p>Enroladinho - R$ 6,00</p>
+      <img src="img/enroladinho-removebg-preview.png" alt="Enroladinho" class="produto-img">
+      <p><strong>Enroladinho</strong> - R$ 6,00</p>
       <button onclick="comprar('Enroladinho')">Comprar</button>
     </div>
 
     <div class="produto">
-      <p>Lata Coca-Cola - R$ 4,00</p>
+      <img src="img/coca_cola-removebg-preview.png" alt="Lata de Coca-Cola" class="produto-img">
+      <p><strong>Lata Coca-Cola</strong> - R$ 4,00</p>
       <button onclick="comprar('Coca-Cola')">Comprar</button>
     </div>
 
     <div class="agendamento">
-      <h3>Agende sua retirada</h3>
-      <input type="time" id="horaRetirada" required>
-      <button onclick="gerarSenha()">Confirmar e Gerar Senha</button>
-    </div>
+  <h3>Agende sua retirada</h3>
+  <input type="time" id="horaRetirada" min="07:00" max="22:00" required>
+  <button onclick="gerarSenha()">Confirmar e Gerar Senha</button>
+</div>
+
 
     <div id="senhaDisplay"></div>
   </div>
@@ -47,4 +50,3 @@
   <script src="js/script.js"></script>
 </body>
 </html>
-
