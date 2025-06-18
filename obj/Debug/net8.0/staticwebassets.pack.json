@@ -1,12 +1,28 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\cadrastro.html",
-      "PackagePath": "staticwebassets\\cadrastro.html"
+      "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\cadastro.html",
+      "PackagePath": "staticwebassets\\cadastro.html"
     },
     {
       "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\img\\carrossel 1.jfif",
+      "PackagePath": "staticwebassets\\img\\carrossel 1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\img\\coca_cola-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\coca_cola-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\img\\coxinha-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\coxinha-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\img\\enroladinho-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\enroladinho-removebg-preview.png"
     },
     {
       "Id": "C:\\Users\\Alunos\\Downloads\\fernanda\\AromaeSabor\\wwwroot\\index.html",
